@@ -11,11 +11,11 @@ for installation.
 
 First time setup will install libs needed.
 
-	bash install.sh
-	
+    bash install.sh
+
 To compile, you guessed it ;)
 
-	bash compile.sh
+    bash compile.sh
 
 Output will be placed in `dist`
 
